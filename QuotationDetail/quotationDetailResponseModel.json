@@ -6,6 +6,6 @@
     "email": "string",
     "vehicleDetail": "string",
     "licensePlate": "string",
-    "effectiveDatte": "date/string",
+    "effectiveDate": "date/string",
     "annualPremium": "number"
 }
