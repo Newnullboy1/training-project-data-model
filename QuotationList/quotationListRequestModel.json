@@ -1,0 +1,6 @@
+{
+    "_comment": "atleast one property not null",
+    "quotationNumber": "string (nullable)",
+    "policyStartDate": "date/string (nullable)",
+    "vehicleDetailId": "string (nullable)"
+}

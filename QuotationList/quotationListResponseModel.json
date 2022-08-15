@@ -1,0 +1,26 @@
+[
+    {
+        "quotationNumber": "string",
+        "fullName": "string",
+        "vehicleDetail": "",
+        "policyStartDate": "date/string"
+    },
+    {
+        "quotationNumber": "string",
+        "fullName": "string",
+        "vehicleDetail": "",
+        "policyStartDate": "date/string"
+    },
+    {
+        "quotationNumber": "string",
+        "fullName": "string",
+        "vehicleDetail": "",
+        "policyStartDate": "date/string"
+    },
+    {
+        "quotationNumber": "string",
+        "fullName": "string",
+        "vehicleDetail": "",
+        "policyStartDate": "date/string"
+    }
+]

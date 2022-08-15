@@ -1,0 +1,12 @@
+{
+    "firstName": "string",
+    "midleName": "string (nullable)" ,
+    "lastName": "string",
+    "gender": "string",
+    "dateOfbirth": "date/string",
+    "phoneNumber": "string",
+    "email": "string",
+    "vehicleDetailId": "string",
+    "licensePlate": "string",
+    "policyStartDate": "date/string"
+}

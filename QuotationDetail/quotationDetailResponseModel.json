@@ -1,0 +1,11 @@
+{
+    "policyHolder": "string",
+    "Gender": "string",
+    "dateOfBirth": "date/string",
+    "phoneNumber": "string",
+    "email": "string",
+    "vehicleDetail": "string",
+    "licensePlate": "string",
+    "effectiveDatte": "date/string",
+    "annualPremium": "number"
+}
